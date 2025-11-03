@@ -1,0 +1,31 @@
+{
+  "url": "https://wiki.metakgp.org/w/How_to_file_ITR_for_income_declaration",
+  "title": "How to file ITR for income declaration",
+  "content": [
+    "(This guide was originally written by Shivam Kumar Jha[CS '22])",
+    "This guide explains in step-by-step approach how you can file an Income Tax Return for your parents, and use the documents procured to submit as Income Declaration Proofs. As per the official document , dated 14.07.2020, ITR documents are accepted as valid proofs. This is the easiest method of all in order to provide proof of income that can be completed online.",
+    "The process is completely online, is super easy to fill for anyone with basic financial terms knowledge (like income, deductions, etc.) and can be completed in half an hour for each filing.",
+    "Everyone with an income, no matter whatsoever the amount, can file an ITR online very easily. Below are the necessary requisites:",
+    "Should have PAN Card",
+    "Should have their AADHAR Card Linked With the PAN Card",
+    "Primary bank account (in the name of the person you are filing for) should be linked with the PAN Card",
+    "Should have their phone number linked with their AADHAR Card",
+    "Should have detailed information about their income and income sources; having Form 16 makes the process much easier.",
+    "NOTE: For people with zero income, a small amount of income like Rs. 5000 can be shown while filing the ITR in the gross income field. Your filed ITRs are verified against the bank account and AADHAR card linked with the PAN.",
+    "A really easy way to file ITR is to use an online service like ClearTax . Below are the steps you can follow:",
+    "Register yourself on Cleartax or login if you are already a member. You can also file ITR directly on offical website https://www.incometaxindiaefiling.gov.in/home .",
+    "Choose to file ITR.",
+    "Correctly fill all the details; most of the fields are self-explanatory, take help of your parents or your friends if you get stuck.",
+    "File the ITR; you'll get your \"Acknowledgement Number\", keep this safe .",
+    "Go to everify ITR online and enter the PAN, Acknowledgement Number (received on filing for the PAN you entered) and the fiscal year.",
+    "Choose \"Verify With AADHAR OTP\". You'll get an SMS with OTP, enter it.",
+    "After the verification, which takes from minutes to hours depending on the traffic, you'll receive an ITR-V document on your email address which you entered while filing. This document is what you need to submit.",
+    "Repeat the process for both your parents, combine the PDFs , and upload as income proof in ERP.",
+    "You absolutely need to submit ITR-V for both your parents or your submission will be rejected.",
+    "NOTE: Cleartax saves your details and makes it easier to file the next year when you need the documents again.",
+    "NOTE: In case of a genuine reason for not being able to submit both parents' document (single parent, etc.), please upload corresponding document(s) proving the same alongside the ITR-V and, if it is rejected, please send a mail to Assistant Registrar mentioning all details.",
+    "How to file RTI to get information",
+    "How to get a visa to USA",
+    "How to claim your medical expenses"
+  ]
+}

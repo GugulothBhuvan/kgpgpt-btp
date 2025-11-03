@@ -1,0 +1,15 @@
+{
+  "url": "https://wiki.metakgp.org/w/How_to_use_IITKGP_DC",
+  "title": "How to use IITKGP DC",
+  "content": [
+    "The IITKGP DC Hub is a private hub and inaccessible from outside the IIT Kharagpur's network. To connect to the hub, one needs a DC software. Popular choices of such softwares on different platforms are:",
+    "Windows : DC++",
+    "Linux : Eiskalt DC++qt, Eiskalt DC++gtk3, LinuxDC++",
+    "macOS : EiskaltDC++ , Shakespeer , Mac DC++",
+    "Once installed, type the hub IP address in quick connect box (IP can be obtained from the HHFH ). If successfully connected, one should see a list of connected users along with a chat screen showing messages. However, to browse users and download anything from the server, one needs to meet the minimum share requirements (about 80-100 GB, varies). The share options are available in Preferences section.",
+    "Always mirror the content you download",
+    "Sharing fake files is highly discouraged, it can get you (and your wing) banned",
+    "Mirror additional content that is not readily available (PM the user for a special download slot)",
+    "In case of Windows system, keep all firewalls off."
+  ]
+}

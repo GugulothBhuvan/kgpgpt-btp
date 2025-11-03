@@ -1,0 +1,23 @@
+{
+  "url": "https://wiki.metakgp.org/w/How_to_typeset_your_thesis",
+  "title": "How to typeset your thesis",
+  "content": [
+    "During the course of undergraduate and postgraduate studies at IIT Kharagpur, one is required to submit a formal thesis and present the research carried out as a part of Bachelor's Project (BTP), Master's Project (MTP), or Doctoral Thesis (PhD). Since, typing a large research work requires careful organization, referencing and presentation, the choice of word-processor or typesetting is an important consideration. The two common choices tend to be Microsoft Word and LaTeX . While former provides excellent ease of usability and common formatting options, latter provides a granular control on content organization and generally produces superior quality documents.",
+    "The how-to discusses potential advantages of each method and illustrates how to do it.",
+    "1 LaTeX 1.1 Advantages 1.2 Disadvantages 1.2.1 Template",
+    "1.1 Advantages",
+    "1.2 Disadvantages 1.2.1 Template",
+    "1.2.1 Template",
+    "2 General guidelines",
+    "3 External links",
+    "Excellent reference management",
+    "Whitespace and layout is automatically typset (table of contents, index page, list of figures etc.) ensuring maximum readability",
+    "Embed high quality figure easily",
+    "Has a learning curve; problem has be partially mitigated by using WYSIWYG editors",
+    "Requires careful setup, errors can be hard to debug",
+    "It is best to start from a template. Fortunately, a few people have developed templates that you can adapt to write your own thesis. For example, Sarthak Jain wrote this template specifically for IIT Kharagpur's thesis styles. Download the file and read the instructions. However, note that each department has different guidelines regarding the format of thesis. The template can be adapted according to personal requirements.",
+    "Remember, the top priority is to fulfill the thesis requirements of your department",
+    "Consider the marginal utility of investing in thesis typesetting versus thesis development",
+    "Thesis writing - Pointers for keeping it simple and sleek by Sarthak Jain"
+  ]
+}

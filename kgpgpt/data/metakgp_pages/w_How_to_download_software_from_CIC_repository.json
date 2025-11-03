@@ -1,0 +1,16 @@
+{
+  "url": "https://wiki.metakgp.org/w/How_to_download_software_from_CIC_repository",
+  "title": "How to download software from CIC repository",
+  "content": [
+    "The Computer Informatics Centre maintains a software repository containing various educational and support software like Matlab, SolidWorks, and Windows. The copies are made available through institute licensing and are genuine to use.",
+    "The software repository is hosted at: 10.3.100.212",
+    "Connect to the server depending on your operating system of use. For example, in Windows, one can click Run and type \\\\10.3.100.212 to connect to the server. In Linux, an option to Connect to server is available on the left side in file browser. The network uses following authentication details:",
+    "Login Id: guest",
+    "Password: guest",
+    "First go to Finder, then form the top menu bar select \"Go\" and then select \"Connect to Server\".",
+    "Now you will be presented with a screen similar to the below screenshot. In the server address type smb://144.16.192.212 and hit connect.",
+    "Now, select the registered user and use the credentials (mentioned before) to login. Click Connect and then click OK to mount the volume.",
+    "Now, you can simply save/copy the files from the network to your personal space.",
+    "Activation and usage details for certain softwares are available on the CIC website ."
+  ]
+}
